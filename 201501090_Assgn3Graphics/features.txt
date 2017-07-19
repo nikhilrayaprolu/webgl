@@ -1,0 +1,21 @@
+VIEWS
+There are three views,
+1. Free view: Allow the camera to move any-where inside the tank. Using A and D will move the camera in clockwise and anti-clockwise direction. 
+2. Fish eye view: From the eyes of a fish, similar to a fish eye lens. Use LEFT and RIGHT. Press E to switch to this view.
+arrow keys to switch between fishes. 
+3. Fish head view: Third person view while controlling a fish. Press F for this view.
+
+FISH:
+1. All the fish move naturally in random directions.
+2. The fish can be controlled in the Fish Head View. Switching from the Fish eye view, will enable controlling that fish.
+
+BUBBLES and FOOD:
+1. Clicking on the right mouse button will randomly generate a bubble at the bottom, that then slowly drifts upwards. The bubble pops at the top of the tank, with a 'pop' sound.
+2. Clicking on the left mouse button will randomly generate a food particle at the top, that then slowly sinks downwards.
+
+MUSIC:
+1.There is ocean music playing in the background.
+2.There is a pop sound each time a bubble reaches the surface of the aquarium.
+
+SCREENSHOT:
+1. Pressing S, will take a screenshot of the current screen. Download option appears, clicking on which the screenshotted image gets downloaded.
